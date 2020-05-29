@@ -1,0 +1,24 @@
+.faq__outer-container {
+	position: relative;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #434190;
+}
+
+
+.faq__inner-container {
+	position: relative;
+	width: 60%;
+	margin: 64px 0px;
+}
+
+
+.faq__item {
+	display: grid;
+	grid-template-columns: 33% 67%;
+	margin-top: 32px;
+	border-top: 1px solid #a6c5c8;
+	padding: 16px 0px;
+}
