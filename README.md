@@ -2,7 +2,7 @@
 
 I was inspired to make this page in React as some good practice at taking a sketch file and making it a webpage.
 
-### Youtube
+### Youtube Video
 https://www.youtube.com/watch?v=RC9cYdbQ-_c
 
 ### Sketch File
