@@ -136,4 +136,22 @@ The modifier is optional.
 }
 ```
 
+The rest of the css files follow that pattern so take a look for yourself if you're curious!
+
 ## Resources / Contact Info
+
+#### Email
+
+jeffgsch@gmail.com
+
+#### Website
+
+http://hackersupreme.com
+
+#### Resources
+
+- [Youtube Video](https://www.youtube.com/watch?v=RC9cYdbQ-_c)
+- [Sketch File](https://www.dropbox.com/s/tictbuvpnzxpf7v/tuple-after.sketch?dl=0)
+- [Block Element Modifier](http://getbem.com/naming/)
+- [React.js](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
